@@ -15,25 +15,26 @@
       <file leaf-file-name="rearrangeLastN.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/rearrangeLastN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="496">
+              <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
               <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#344#371#1" expanded="true" />
-                <element signature="e#380#434#1" expanded="true" />
-                <element signature="e#416#433#0" expanded="true" />
-                <element signature="e#443#521#0" expanded="true" />
-                <element signature="e#443#521#0" expanded="true" />
-                <element signature="e#475#486#0" expanded="true" />
-                <element signature="e#475#486#0" expanded="true" />
-                <element signature="e#564#587#0" expanded="true" />
-                <element signature="e#564#587#0" expanded="true" />
-                <element signature="e#613#638#0" expanded="true" />
-                <element signature="e#613#638#0" expanded="true" />
-                <element signature="e#671#694#0" expanded="true" />
-                <element signature="e#680#693#0" expanded="true" />
-                <element signature="e#671#694#0" expanded="true" />
+                <element signature="e#0#1591#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
+                <element signature="e#1199#1226#1" expanded="true" />
+                <element signature="e#1235#1289#1" expanded="true" />
+                <element signature="e#1271#1288#0" expanded="true" />
+                <element signature="e#1298#1376#0" expanded="true" />
+                <element signature="e#1298#1376#0" expanded="true" />
+                <element signature="e#1330#1341#0" expanded="true" />
+                <element signature="e#1330#1341#0" expanded="true" />
+                <element signature="e#1419#1442#0" expanded="true" />
+                <element signature="e#1419#1442#0" expanded="true" />
+                <element signature="e#1468#1493#0" expanded="true" />
+                <element signature="e#1468#1493#0" expanded="true" />
+                <element signature="e#1526#1549#0" expanded="true" />
+                <element signature="e#1535#1548#0" expanded="true" />
+                <element signature="e#1526#1549#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,7 +172,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="26" width="881" height="1006" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -185,7 +185,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22765197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22765197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -380,25 +380,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/rearrangeLastN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="496">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
           <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#344#371#1" expanded="true" />
-            <element signature="e#380#434#1" expanded="true" />
-            <element signature="e#416#433#0" expanded="true" />
-            <element signature="e#443#521#0" expanded="true" />
-            <element signature="e#443#521#0" expanded="true" />
-            <element signature="e#475#486#0" expanded="true" />
-            <element signature="e#475#486#0" expanded="true" />
-            <element signature="e#564#587#0" expanded="true" />
-            <element signature="e#564#587#0" expanded="true" />
-            <element signature="e#613#638#0" expanded="true" />
-            <element signature="e#613#638#0" expanded="true" />
-            <element signature="e#671#694#0" expanded="true" />
-            <element signature="e#680#693#0" expanded="true" />
-            <element signature="e#671#694#0" expanded="true" />
+            <element signature="e#0#1591#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1199#1226#1" expanded="true" />
+            <element signature="e#1235#1289#1" expanded="true" />
+            <element signature="e#1271#1288#0" expanded="true" />
+            <element signature="e#1298#1376#0" expanded="true" />
+            <element signature="e#1298#1376#0" expanded="true" />
+            <element signature="e#1330#1341#0" expanded="true" />
+            <element signature="e#1330#1341#0" expanded="true" />
+            <element signature="e#1419#1442#0" expanded="true" />
+            <element signature="e#1419#1442#0" expanded="true" />
+            <element signature="e#1468#1493#0" expanded="true" />
+            <element signature="e#1468#1493#0" expanded="true" />
+            <element signature="e#1526#1549#0" expanded="true" />
+            <element signature="e#1535#1548#0" expanded="true" />
+            <element signature="e#1526#1549#0" expanded="true" />
           </folding>
         </state>
       </provider>
